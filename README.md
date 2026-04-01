@@ -1,7 +1,10 @@
 # ejpt-resources
 كل نصائحي للاختبار موجوده على الاكس حقي: https://x.com/aaakllld
 
+
 ---
+
+
 
 ## Notes/Cheatsheets:
 ### كل هذولي نوتس للـeJPT - اللي جنبها 🌟 هي اللي انصح فيها اكثر شي :) 
@@ -19,7 +22,12 @@
 - 🌟 https://github.com/neilmadhava/EJPTv2-Notes/tree/main?tab=readme-ov-file
 - https://johnermac.github.io/notes/ejpt/
 
+
+
 ---
+
+
+
 
 ## Labs:
 ### لابات TryHackMe للـeJPT - اللي جنبهم 🌟 هم اهم شي :) 
