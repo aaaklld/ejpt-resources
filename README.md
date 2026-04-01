@@ -64,7 +64,7 @@
 
 
 ### لابات HackTheBox للـeJPT -
-- #### اهم 5:
+#### اهم 5:
 - Lame
 - Legacy
 - Devel
